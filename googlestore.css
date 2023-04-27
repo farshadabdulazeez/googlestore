@@ -1,0 +1,148 @@
+body{
+    margin: 0px;
+    margin-top: 57px;
+    padding:0px;
+}
+.heading{
+    background-color:rgb(255,255,255);
+    display: flex;
+    justify-content: space-between;
+    position: fixed;
+    left: 0;
+    right: 0;
+    top: 0;
+    height: 57px;
+    
+}.img1{
+    width: 33px;
+    height: 33px;
+    padding-left: 16px;
+    padding-top: 10px;
+
+}
+.righttop{
+    width: 40px;
+    height: 40px;
+    margin-top: 10px;
+    margin-right: 118px;
+    display: flex;
+    justify-content: space-between;
+    
+}
+.img2{
+    width: 24px;
+    height: 24px;
+    margin-left: 24px;
+    cursor: pointer;
+    
+}
+.main{
+    width:100% ;
+    height: 200px;
+    text-align: center;
+     
+} 
+.m-head{
+   font-size:50px;
+   letter-spacing: -1px;
+   font-family: "Google Sans Display","Roboto","Arial",sans-serif;
+   margin-bottom: 0;
+}
+.mh-2{
+    font-size:50px;
+   letter-spacing: -1px;
+   font-family: "Google Sans Display","Roboto","Arial",sans-serif;
+   color:#188038 ;
+   margin-top: 0;
+}
+.section{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+
+}
+.inner-section-1{
+    width: 30%;
+    
+
+}
+.types{
+    padding-left: 50px;
+}
+
+.inner-section-2{
+    width: 100%;
+    display: flex;
+    justify-content:space-between;
+    flex-direction: column;
+}
+.products-1{
+    width: 100%;
+    height: 400px;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 10px;
+    column-gap: 20px;
+
+}
+.phone-name{
+    font-weight: bolder;
+    font-family: sans-serif;
+    opacity: .7;
+
+}
+
+.img{
+    width: 330px;
+    height: 330px;
+    cursor: pointer;
+    background-color:#9aa0a617;
+    
+   
+
+}
+
+.product-2{
+    width: 100%;
+    display: flex;
+    justify-content:space-between;
+}
+
+.product-3{
+    width: 100%;
+    display: flex;
+    column-gap: 20px;
+}
+.end{
+    display: flex;
+     justify-content: flex-end;
+     padding-right: 30px;
+     padding-top: 30px;
+     
+}
+li{
+    list-style: none;
+    cursor: pointer;
+    line-height: 2;
+
+}
+.footer{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.flag{
+    width: 25px;
+    height: 25px;
+    padding-top: 15px;
+}
+.about{
+    display: flex;
+    column-gap: 10px;
+    float: right;
+    padding-right: 30px;
+}
+.icon{
+    padding-left: 30px;
+}
+
